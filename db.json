@@ -4350,5 +4350,16 @@
             "website": "gurindernarang.github.io",
             "company": {}
         }
+    ],
+    "admin": [{
+            "username": "vibhasharma",
+            "email": "vibhas1892@gmail.com",
+            "password": "password"
+        },
+        {
+            "username": "gurinder",
+            "email": "gurinder.narang88@gmail.com",
+            "password": "password"
+        }
     ]
 }
